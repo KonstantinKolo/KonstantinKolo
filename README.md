@@ -17,7 +17,7 @@ I'm a passionate developer who loves building things with code. Whether it's web
 - Tools: Git, VS Code, Linux 
 
 ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=KonstantinKolo&show_icons=true&theme=default)
 
 ---
 
