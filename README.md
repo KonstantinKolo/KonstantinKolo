@@ -7,7 +7,6 @@ I'm a passionate developer who loves building things with code. Whether it's web
 - 🌱 I’m learning: C++, embeded systems and linux
 - 👯 I’m looking to collaborate on: Open-source projects, especially those involving linux or super small micro controllers
 - 📫 How to reach me: konstantinkolovski@gmail.com
-- ⚡ Fun fact: I'm using arch linux (btw)
 
 ## 🛠️ Tech Stack
 - Languages: C#, C++, GDScript, Javascript
@@ -18,8 +17,6 @@ I'm a passionate developer who loves building things with code. Whether it's web
 
 ## 📈 GitHub Stats
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=KonstantinKolo&count_private=true&theme=tokyonight&showicons=true)]() 
- 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KonstantinKolo&langs_count=5&theme=tokyonight)]()
 
 ---
