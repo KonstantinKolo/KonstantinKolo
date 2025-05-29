@@ -1,11 +1,11 @@
 # Hi there 👋 I'm Konstantin!
 
-I'm a passionate developer who loves building things with code. Whether it's web apps, automation tools, or experimenting with new technologies, I enjoy turning ideas into reality.
+I'm a developer who loves building things with code. Whether it's web apps, automation tools, or experimenting with new technologies, I enjoy turning ideas into reality.
 
 ## 🚀 About Me
 - 🔭 I’m currently working on: A 3D offline fighting game in GodotEngine
 - 🌱 I’m learning: C++, embeded systems and linux
-- 👯 I’m looking to collaborate on: Open-source projects, especially those involving linux or super small micro controllers
+- 👏 I’m looking to collaborate on: Open-source projects, especially those involving linux or super small micro controllers
 - 📫 How to reach me: konstantinkolovski@gmail.com
 
 ## 🛠️ Tech Stack
