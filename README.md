@@ -4,16 +4,16 @@ I'm a developer who loves building things with code. Whether it's web apps, auto
 
 ## 🚀 About Me
 - 🔭 I’m currently working on: A 3D offline fighting game in GodotEngine
-- 🌱 I’m learning: C++, embeded systems and linux
+- 🌱 I’m learning: C, embeded systems and linux
 - 👏 I’m looking to collaborate on: Open-source projects, especially those involving linux or super small micro controllers
 - 📫 How to reach me: konstantinkolovski@gmail.com
 
 ## 🛠️ Tech Stack
-- Languages: C#, C++, GDScript, Javascript
-- Frontend: React, ASP.NET, HTML, CSS, QML
-- Backend: Node.js, C#, C++
+- Languages: C#, C, GDScript, Javascript
+- Frontend: React, HTML, CSS, QML
+- Backend: Node.js, ASP.NET
 - DevOps: Docker
-- Tools: Git, VS Code, Linux 
+- Tools: Git, GitHub, VS Code, Linux 
 
 ## 📈 GitHub Stats
 
